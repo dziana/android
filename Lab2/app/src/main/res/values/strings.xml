@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guess number!</string>
+    <string name="behind">behind!</string>
+    <string name="ahead">ahead!</string>
+    <string name="hit">hit!</string>
+    <string name="input_value">input value</string>
+    <string name="play_more">play more</string>
+    <string name="try_to_guess">try to guess number (1 &#8211; 100)</string>
+    <string name="error">error!</string>
+    <string name="close">close</string>
+    <string name="errorInput">input value!</string>
+    <string name="errorNumber">number must be between 1 and 100!</string>
+    <string name="attempt">amount of attempts = </string>
+    <string name="lastvalues">last values = </string>
+</resources>
